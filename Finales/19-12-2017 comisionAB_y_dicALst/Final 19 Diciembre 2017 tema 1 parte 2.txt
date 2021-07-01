@@ -1,0 +1,6 @@
+3.1)Tengo los archivos "Comision A" y "Comision B" donde esta el numero de registro, el nombre y el apellido separados por coma,
+puede una misma persona estar en ambos archivos. Tengo que crear el archivo "Comision AB" donde aparecieran todas las personas 
+sin repetirse y ordenarlo por numero de registro ascendente.
+
+3.2)Me dan un diccionario como parametro, como clave tiene el apellido de un alumno y como valor una lista con sus notas.
+Tengo que imprimir por pantalla el apellido del alumno con su promedio de notas en orden descendente.
